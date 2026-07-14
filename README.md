@@ -2,6 +2,18 @@
 **Lebanese University — Faculty of Engineering III** **Course:** Sensors & Instrumentation  
 **Instructor:** Dr. Mohamad Ahmad Aoude  
 
+
+## 📂 GitHub Repository Structure
+
+In accordance with the project guidelines, this repository is organized as follows:
+
+* 📁 [**`README.md`**](./README.md) — This main documentation page.
+* 📁 [**`/Docs`**](./Docs) — Project schematics, wiring diagrams, and technical documentation.
+* 📁 [**`/code`**](./code) — The implementation source code for the Arduino.
+* 📁 [**`/video`**](./video) — Project demonstration video references.
+* 📁 [**`/Reports`**](./Reports) — The Main Project Report alongside all individual group member reports.
+
+---
 ## 📋 Project Subsystems & Video Outline
 
 Our integrated greenhouse automation system is broken down into five key subsystems:
