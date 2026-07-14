@@ -43,7 +43,7 @@ The fully commented and modular Arduino codebase is stored in the code directory
 * 📄 [**`/code/Project_code.ino`**](./code/Project_code.ino) — Click here to view the main logic, pin mappings, and loop controls.
 
 ### 📦 Required Arduino Libraries
-To compile the code successfully, make sure to install the following libraries included in the [**`/code/libraries`**](./code/libraries) folder:
+To compile the code successfully, make sure to install the following libraries included in the Arduino libraries manager:
 
 1. **IRremote Library** (v4.0.0 or later) — *Handles IR receiver signals and protocol decoding.*
    - **Author:** Armin Joachimsmeyer
