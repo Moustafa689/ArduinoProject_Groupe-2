@@ -86,10 +86,10 @@ Each team member took ownership of a specific module and compiled an individual 
 
 | Team Member | Subsystem Responsibility | Individual Report Link |
 | :--- | :--- | :--- |
-| **Razane Najem** | Security Subsystem & Alarm | [📄 View Report](./report/Individual_Technical_Report_Design_Power_Management_Circuit_Schematics_Control_Firmware_for_the_Embedded_Security_and_Alarm_System.pdf) |
-| **Fatima Jaafar** | Climate Control (DHT11 & Fan) | [📄 View Report](./report/Individual_Technical_Report_Microclimate_Ventilation_and_Automatic_Temperature_Control_Power_Supply_Electrical_Schematics_and_Firmware_Code.pdf) |
-| **Moustafa Alawieh** | Automated Irrigation (Soil & Pump) | [📄 View Report](./report/Individual_Technical_Report_Closed-Loop_Soil_Moisture_Sensing_and_Irrigation_Pump_Control_Power_Supply_Electrical_Schematics_and_Firmware_Code.pdf) |
-| **Mohammad injibar** | Weather & Light (LDR/Rain/Servo) | [📄 View Report](./report/Individual_Technical_Report_Light-Sensing_Weather_Protection_and_Servo-Driven_Roof_Actuation_Power_Supply_Electrical_Schematics_and_Firmware_Code.pdf) |
+| **Razane Najem** | Security Subsystem & Alarm | [📄 View Report](./Reports/Individual_Technical_Report_Design_Power_Management_Circuit_Schematics_Control_Firmware_for_the_Embedded_Security_and_Alarm_System.pdf) |
+| **Fatima Jaafar** | Climate Control (DHT11 & Fan) | [📄 View Report](./Reports/Individual_Technical_Report_Microclimate_Ventilation_and_Automatic_Temperature_Control_Power_Supply_Electrical_Schematics_and_Firmware_Code.pdf) |
+| **Moustafa Alawieh** | Automated Irrigation (Soil & Pump) | [📄 View Report](./Reports/Individual_Technical_Report_Closed-Loop_Soil_Moisture_Sensing_and_Irrigation_Pump_Control_Power_Supply_Electrical_Schematics_and_Firmware_Code.pdf) |
+| **Mohammad injibar** | Weather & Light (LDR/Rain/Servo) | [📄 View Report](./Reports/Individual_Technical_Report_Light-Sensing_Weather_Protection_and_Servo-Driven_Roof_Actuation_Power_Supply_Electrical_Schematics_and_Firmware_Code.pdf) |
 
 ---
 
