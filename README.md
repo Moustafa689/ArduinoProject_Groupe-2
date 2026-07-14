@@ -79,7 +79,7 @@ To compile the code successfully, make sure to install the following libraries i
 All project documentation is compiled and stored inside the [**`/Reports`**](./Reports) folder. 
 
 ### 📑 Main Project Report
-* [📘 **Download Main Project Report (PDF)**](./Reports/Development and Testing of an Automated Smart Greenhouse System with Integrated Environmental and Security Frameworks.pdf) — *The comprehensive, complete group technical report outlining the entire design, circuitry, budget, and results.*
+* [📘 **Download Main Project Report (PDF)**](./Reports/Development_and_Testing_of_an_Automated_Smart_Greenhouse_System_with_Integrated_Environmental_and_Security_Frameworks.pdf) — *The comprehensive, complete group technical report outlining the entire design, circuitry, budget, and results.*
 
 ### 📄 Individual Reports
 Each team member took ownership of a specific module and compiled an individual technical analysis:
