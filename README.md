@@ -54,4 +54,4 @@ Each team member took ownership of a specific module and compiled an individual 
 ## 🛠️ Hardware Schematics
 
 * The complete wiring diagram and schematic can be found in the docs directory:  
-  📄 [**`/docs/Greenhouse_System_Schematic_And_Wiring.fzz`**](./docs/Greenhouse_System_Schematic_And_Wiring.fzz) (Open with Fritzing).
+  📄 [**`/Docs/Greenhouse_System_Schematic_And_Wiring.fzz`**](./Docs/Greenhouse_System_Schematic_And_Wiring.fzz) (Open with Fritzing).
