@@ -28,7 +28,7 @@ Click the video player thumbnail below to watch our complete system run-through 
 
 The fully commented and modular Arduino codebase is stored in the code directory:
 
-* 📄 [**`/code/Greenhouse_System.ino`**](./code/Greenhouse_System.ino) — Click here to view the main logic, pin mappings, and loop controls.
+* 📄 [**`/code/projet.ino`**](./code/projet.ino) — Click here to view the main logic, pin mappings, and loop controls.
 
 ---
 
