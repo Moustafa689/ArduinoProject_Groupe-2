@@ -17,6 +17,6 @@ Click the preview thumbnail below to play the video:
 ### 📋 Video Chapters & Subsystems Shown:
 * **0:00** - Subsystem 1: System Overview & Setup
 * **3:10** - Subsystem 2: Security Subsystem (PIR Sensor & Buzzer Alarm)
-* **5:00** - Subsystem 3: Climate Control (DHT11 Temperature/Humidity & Fan)
+* **5:00** - Subsystem 3: Climate Control (DHT11 Temperature/Humidity & Fan) 
 * **7:15** - Subsystem 4: Automated Irrigation (Soil Moisture Sensor & Water Pump)
 * **8:46** - Subsystem 5: Weather & Light Response (LDR, Rain Sensor & Servo)
