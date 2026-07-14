@@ -36,14 +36,6 @@ Click the video player thumbnail below to watch our complete system run-through 
 
 ---
 
-## 💻 Source Code
-
-The fully commented and modular Arduino codebase is stored in the code directory:
-
-* 📄 [**`/code/Project_code.ino`**](./code/Project_code.ino) — Click here to view the main logic, pin mappings, and loop controls.
-
----
-
 ## 💻 Source Code & Libraries
 
 The fully commented and modular Arduino codebase is stored in the code directory:
