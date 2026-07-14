@@ -1,6 +1,6 @@
 # Automated Greenhouse System — Groupe 2 🌿
 **Lebanese University — Faculty of Engineering III** **Course:** Sensors & Instrumentation  
-**Instructor:** Dr. Mohamad Ahmad Aoude  
+**Instructor:** Dr. Mohamad Aoude  
 
 
 ## 📂 GitHub Repository Structure
