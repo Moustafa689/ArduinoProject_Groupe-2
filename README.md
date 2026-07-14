@@ -44,6 +44,16 @@ The fully commented and modular Arduino codebase is stored in the code directory
 
 ---
 
+### 📦 Required Arduino Libraries
+To compile the code successfully, make sure to install the following libraries included in the [**`/code/libraries`**](./code/libraries) folder:
+1. **DHT Sensor Library** by Adafruit (v1.4.6 or later) — [Download Link](./code/libraries/DHT_sensor_library.zip)
+2. **Adafruit Unified Sensor** (Dependency) — [Download Link](./code/libraries/Adafruit_Sensor.zip)
+3. **Servo** (Built-in Arduino Library)
+
+*To install these in the Arduino IDE, go to **Sketch > Include Library > Add .ZIP Library...** and select the files from the `/code/libraries` directory.*
+
+---
+
 ## 👥 Project Reports & Technical Documentation
 
 All project documentation is compiled and stored inside the [**`/report`**](./report) folder. 
@@ -67,3 +77,14 @@ Each team member took ownership of a specific module and compiled an individual 
 
 * The complete wiring diagram and schematic can be found in the docs directory:  
   📄 [**`/Docs/Greenhouse_System_Schematic_And_Wiring.fzz`**](./Docs/Greenhouse_System_Schematic_And_Wiring.fzz) (Open with Fritzing).
+
+
+### 🧩 Custom Fritzing Libraries (`.fzpz`)
+If Fritzing complains about missing parts when loading our schematic, please import our custom library parts stored in [**`/docs/fritzing_parts`**](./docs/fritzing_parts):
+* **Soil Moisture Sensor Module:** [Download .fzpz](./docs/fritzing_parts/soil_moisture_sensor.fzpz)
+* **Rain/Water Sensor Board:** [Download .fzpz](./docs/fritzing_parts/rain_sensor.fzpz)
+* **Active Buzzer / PIR Module:** [Download .fzpz](./docs/fritzing_parts/pir_sensor.fzpz)
+
+*To import these in Fritzing, go to **File > Open** and select the `.fzpz` files, or right-click the "Mine" parts bin and select **Import Part**.*
+
+---  
