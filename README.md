@@ -44,11 +44,31 @@ The fully commented and modular Arduino codebase is stored in the code directory
 
 ---
 
+## 💻 Source Code & Libraries
+
+The fully commented and modular Arduino codebase is stored in the code directory:
+
+* 📄 [**`/code/Project_code.ino`**](./code/Project_code.ino) — Click here to view the main logic, pin mappings, and loop controls.
+
 ### 📦 Required Arduino Libraries
 To compile the code successfully, make sure to install the following libraries included in the [**`/code/libraries`**](./code/libraries) folder:
-1. **DHT Sensor Library** by Adafruit (v1.4.6 or later) — [Download Link](./code/libraries/DHT_sensor_library.zip)
-2. **Adafruit Unified Sensor** (Dependency) — [Download Link](./code/libraries/Adafruit_Sensor.zip)
-3. **Servo** (Built-in Arduino Library)
+
+1. **IRremote Library** (v4.0.0 or later) — *Handles IR receiver signals and protocol decoding.*
+   - **Author:** Armin Joachimsmeyer
+   - **Source URL:** [https://github.com/Arduino-IRremote/Arduino-IRremote](https://github.com/Arduino-IRremote/Arduino-IRremote)
+   - **License:** MIT License
+2. **IskakINO LiquidCrystal I2C Library** — *Drives our 16x2 character display over the I2C protocol.*
+   - **Author:** IskakINO
+   - **Source URL:** [https://github.com/IskakINO/IskakINO_LiquidCrystal_I2C](https://github.com/IskakINO/IskakINO_LiquidCrystal_I2C)
+   - **License:** GNU General Public License v3.0 (GPL-3.0)
+3. **DHT Sensor Library** by Adafruit (v1.4.6 or later) — *Communicates with the DHT11 temperature & humidity sensor.*
+   - **Author:** Adafruit
+   - **Source URL:** [https://github.com/adafruit/DHT-sensor-library](https://github.com/adafruit/DHT-sensor-library)
+   - **License:** MIT License
+4. **Adafruit Unified Sensor Library** — *A mandatory hardware abstraction dependency required by the DHT library.*
+   - **Author:** Adafruit
+   - **Source URL:** [https://github.com/adafruit/Adafruit_Sensor](https://github.com/adafruit/Adafruit_Sensor)
+   - **License:** Apache License 2.0
 
 *To install these in the Arduino IDE, go to **Sketch > Include Library > Add .ZIP Library...** and select the files from the `/code/libraries` directory.*
 
@@ -77,14 +97,5 @@ Each team member took ownership of a specific module and compiled an individual 
 
 * The complete wiring diagram and schematic can be found in the docs directory:  
   📄 [**`/Docs/Greenhouse_System_Schematic_And_Wiring.fzz`**](./Docs/Greenhouse_System_Schematic_And_Wiring.fzz) (Open with Fritzing).
-
-
-### 🧩 Custom Fritzing Libraries (`.fzpz`)
-If Fritzing complains about missing parts when loading our schematic, please import our custom library parts stored in [**`/docs/fritzing_parts`**](./docs/fritzing_parts):
-* **Soil Moisture Sensor Module:** [Download .fzpz](./docs/fritzing_parts/soil_moisture_sensor.fzpz)
-* **Rain/Water Sensor Board:** [Download .fzpz](./docs/fritzing_parts/rain_sensor.fzpz)
-* **Active Buzzer / PIR Module:** [Download .fzpz](./docs/fritzing_parts/pir_sensor.fzpz)
-
-*To import these in Fritzing, go to **File > Open** and select the `.fzpz` files, or right-click the "Mine" parts bin and select **Import Part**.*
 
 ---  
