@@ -56,10 +56,10 @@ Each team member took ownership of a specific module and compiled an individual 
 
 | Team Member | Subsystem Responsibility | Individual Report Link |
 | :--- | :--- | :--- |
-| **Member 1 Name** | Security Subsystem & Alarm | [📄 View Report](./report/Security_Report.pdf) |
-| **Member 2 Name** | Climate Control (DHT11 & Fan) | [📄 View Report](./report/Climate_Report.pdf) |
-| **Member 3 Name** | Automated Irrigation (Soil & Pump) | [📄 View Report](./report/Irrigation_Report.pdf) |
-| **Member 4 Name** | Weather & Light (LDR/Rain/Servo) | [📄 View Report](./report/Weather_Light_Report.pdf) |
+| **Razane Najem** | Security Subsystem & Alarm | [📄 View Report](./report/Security_Report.pdf) |
+| **Fatima Jaafar** | Climate Control (DHT11 & Fan) | [📄 View Report](./report/Climate_Report.pdf) |
+| **Moustafa Alawieh** | Automated Irrigation (Soil & Pump) | [📄 View Report](./report/Irrigation_Report.pdf) |
+| **Mohammad injibar** | Weather & Light (LDR/Rain/Servo) | [📄 View Report](./report/Weather_Light_Report.pdf) |
 
 ---
 
