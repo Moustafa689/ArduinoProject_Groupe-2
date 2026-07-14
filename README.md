@@ -16,7 +16,7 @@ In accordance with the project guidelines, this repository is organized as follo
 ---
 ## 📋 Project Subsystems & Video Outline
 
-Our integrated greenhouse automation system is broken down into five key subsystems:
+Our integrated greenhouse automation system is broken down into five key subsystems: 
 
 1. **System Overview** – Overall architecture, hardware layout, and sensor placement.
 2. **Security & Alarm System** – Intrusion detection utilizing a motion sensor and active buzzer.
